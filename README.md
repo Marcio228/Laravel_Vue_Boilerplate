@@ -1,9 +1,5 @@
 # Laravel Vue Boilerplate
 
-<p align="center">
-  <img src="logo.png" />
-</p>
-
 A Laravel 6 Single Page Application boilerplate using Vue.js 2.6, GraphQL, Bootstrap 4, TypeScript, Sass and Pug with:
 
 * A users CRUD if the current user is an admin written in RESTful and GraphQL.
